@@ -1,0 +1,57 @@
+{
+  "auth": [
+    {}
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "lamin manneh",
+      "username": "lmanneh",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "name": "alieu saidy",
+      "username": "asaidy",
+      "password": "1234"
+    }
+  ],
+  "accounts": [
+    {
+      "accountName": "lamin manneh",
+      "accountNumber": "200-2334",
+      "balance": 2000,
+      "interest": 0,
+      "id": 1
+    },
+    {
+      "accountName": "alieu saidy",
+      "accountNumber": "200-2344",
+      "balance": 700,
+      "interest": 0,
+      "id": 2
+    }
+  ],
+  "transactions": [
+    {
+      "accountName": "lamin manneh",
+      "accountNumber": "200-2334",
+      "balance": 0,
+      "interest": 0,
+      "id": "94697",
+      "amount": 2000,
+      "type": "deposite",
+      "time": "2022-07-27T14:54:50.086Z"
+    },
+    {
+      "accountName": "alieu saidy",
+      "accountNumber": "200-2344",
+      "balance": 0,
+      "interest": 0,
+      "id": "1697",
+      "amount": 700,
+      "type": "deposite",
+      "time": "2022-07-27T14:59:16.386Z"
+    }
+  ]
+}
